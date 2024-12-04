@@ -1,10 +1,10 @@
 ---
 title: "American Fears of Communism During the Cold War"
 date: 2024-12-04
-author: "Bmanbro"
+author: "Bryson Newman"
 tags: ["Cold War", "Communism", "History"]
 categories: ["History"]
-featured_image: "/images/communism-propaganda.jpg"
+featured_image: "/images/communist-propaganda.jpg"
 description: "A deep dive into the paranoia and political fervor surrounding communism in America during the Cold War."
 ---
 
@@ -26,7 +26,6 @@ Senator Joseph McCarthy became the face of America's anti-communist crusade. In 
 
 The fear of communism pervaded American culture:
 
-- Films like *Invasion of the Body Snatchers* mirrored anxieties about infiltration.
 - Propaganda reinforced the dangers of "the Red Menace."
 - Education included "duck and cover" drills in case of nuclear attack.
 
@@ -36,4 +35,4 @@ While the Cold War ended in 1991, the psychological scars and ideological divisi
 
 ---
 
-*Do you remember your first encounter with the history of the Cold War? Share your thoughts in the comments below!*
+*Thanks for checking out my second project, this was an interesting one for sure!*
