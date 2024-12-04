@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Bryson/quickstart",
+	"sourceRoot": "C:/Users/Bryson/Documents/WebsiteGit/CommunismBlog",
 	"sources": [
 		"ananke/css/main.css"
 	],
